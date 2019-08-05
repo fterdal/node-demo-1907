@@ -12,5 +12,6 @@ setTimeout(() => {
 
 console.log(Date.now())
 
+// while (true) {}
 
 console.log('right away')
